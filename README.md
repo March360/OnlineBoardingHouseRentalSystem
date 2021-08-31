@@ -1,0 +1,2 @@
+# OnlineBoardingHouseRentalSystem
+To develop a system that will help boarders to look for a boarding house online with its complete information including its location, the type of rooms, the number of person it can accommodate, its equivalent price, the contact person, and the full view of every rooms set-up that can help boarders upon deciding. House tenants would also benefit from it as it will assist them in terms of monitoring purposes, especially the boarders upcoming due dates and the amount charged to them every month including their previous balances, if there is
